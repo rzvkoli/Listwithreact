@@ -1,0 +1,55 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-image: linear-gradient(to left top ,#ffa600,#ffad02,#ffb506,#ffbc0b,#ffc312);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Roboto';
+}
+
+.container{
+  width: 450px;
+}
+
+.header{
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  padding-left: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+  border-radius: 50px;
+}
+
+.tittle{
+  color: #ffbc0b;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+
+button{
+  background-color: #ffbc0b;
+  border: hidden;
+  color: #000000;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: #ffa600;
+  box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+}
+
+.info{
+  padding: 10px;
+  font-size: 17px;
+}
