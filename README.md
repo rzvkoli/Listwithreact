@@ -11,6 +11,7 @@ The name of the manufacturer of that language is displayed .
 - `React-icons` is used in this project .
 - In this small project a font with two formats is used in the folder / public / font .
 - The favicon has changed in this project .
+
 ## Screenshots of the demo and favicon
 
 ![0](https://user-images.githubusercontent.com/100797809/180575604-ac7988e1-e04a-47de-8009-45e466d75910.png)
