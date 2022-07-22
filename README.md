@@ -1,5 +1,5 @@
 # Reactproject
-**A few brief explanations**:
+**A few brief explanations :**
 - This is an easy project with react .
 - React Icon is used in this project .
 - In this small project a font with two formats is used in the folder / public / font .
