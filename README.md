@@ -1,7 +1,7 @@
 # Reactproject
 **A few brief explanations :**
 - This is an easy project with react .
-- React Icon is used in this project .
+- `React-icons` is used in this project .
 - In this small project a font with two formats is used in the folder / public / font .
 - The favicon has changed in this project .
 ## Screenshots of the demo and favicon
