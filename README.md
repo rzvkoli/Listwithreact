@@ -1,4 +1,4 @@
-# Reactproject
+# React project
 
 **A brief description of the project :**
 
