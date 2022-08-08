@@ -6,12 +6,12 @@
 - **CSS**
 - **React icon**
 
-**A brief description of the project :**
+## A brief description of the project
 
 In this project, click on the button of each of the languages
 The name of the manufacturer of that language is displayed .
 
-**A few more brief explanations :**
+## Some points about the project
 
 - This is an easy project with react .
 - **React-icons** is used in this project .
