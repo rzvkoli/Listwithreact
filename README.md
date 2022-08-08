@@ -1,4 +1,10 @@
-# React project
+# List With React
+
+## Technologies
+
+- **React**
+- **CSS**
+- **React icon**
 
 **A brief description of the project :**
 
