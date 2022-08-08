@@ -20,7 +20,7 @@ The name of the manufacturer of that language is displayed .
 import { icon } from 'react-icons/bs' ;
 
 ```
-- In this project a font with two formats in this direction `public / fonts` used .
+- In this project a font with two formats **ttf - woff** in this direction **public / fonts** used .
 - The favicon has changed in this project .
 
 ## Screenshots of the demo and favicon
