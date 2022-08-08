@@ -38,6 +38,8 @@ font-face {
 
 ![3](https://user-images.githubusercontent.com/100797809/180575619-77c0834c-e646-4371-8f1c-5fc18961f225.png)
 
+- In this project all the information is in the **data.js** file .
+
 ## Preview
 
 ### Desktop Mode
