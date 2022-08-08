@@ -35,6 +35,7 @@ font-face {
 ```
 
 - The favicon has changed in this project .
+
 ![3](https://user-images.githubusercontent.com/100797809/180575619-77c0834c-e646-4371-8f1c-5fc18961f225.png)
 
 ## Preview
