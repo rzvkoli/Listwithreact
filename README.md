@@ -8,7 +8,7 @@
 
 ## A brief description of the project
 
-In this project, click on the button of each of the languages
+In this project click on the button of each of the languages
 The name of the manufacturer of that language is displayed .
 
 ## Some points about the project
