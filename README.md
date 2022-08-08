@@ -13,8 +13,13 @@ The name of the manufacturer of that language is displayed .
 
 ## Some points about the project
 
-- This is an easy project with react .
 - **React-icons** is used in this project .
+
+```JSX
+
+import { icon } from 'react-icons/bs' ;
+
+```
 - In this small project a font with two formats is used in the folder / public / font .
 - The favicon has changed in this project .
 
