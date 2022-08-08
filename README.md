@@ -21,6 +21,17 @@ import { icon } from 'react-icons/bs' ;
 
 ```
 - In this project a font with two formats **ttf - woff** in this direction **public / fonts** used .
+- In this direction **public/css** There is an **Style.css** file
+that fonts In this file and with **font-face** have been used .
+
+```Css
+
+font-face {
+            font-family : ' ' ;
+            src : url ('') format
+}
+```
+
 - The favicon has changed in this project .
 
 ## Screenshots of the demo and favicon
