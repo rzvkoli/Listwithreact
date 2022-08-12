@@ -19,5 +19,5 @@ export default function Person({tittle , info}){
             }
         </div>
     </div>
-  )
+  );
 }
