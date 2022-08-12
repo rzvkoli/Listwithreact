@@ -7,7 +7,6 @@ export default function App() {
 const [language , setLanguage] = useState(data);
 
   return (
-
     <div className="container">
       {
       language.map((index) => {
@@ -15,5 +14,5 @@ const [language , setLanguage] = useState(data);
       })
       }
     </div>
-  )
+  );
 }
